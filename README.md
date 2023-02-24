@@ -22,7 +22,7 @@ This is to give you an idea about dealing. However, we have only one player! Mus
 
 # Compiling
 1. On MacOSX, open up the terminal
-2. Navigate to toilet-solitaire-1-akwon20 directory
+2. Navigate to "SER515_A1_ToiletSolitaire_askwon" directory
 3. Input the following command to compile: make
 4. Input "./Main" to run the program
 5. Input "make clean all" to recompile
