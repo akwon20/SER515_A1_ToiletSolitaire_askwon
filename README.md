@@ -23,8 +23,9 @@ This is to give you an idea about dealing. However, we have only one player! Mus
 # Compiling
 1. On MacOSX, open up the terminal
 2. Navigate to toilet-solitaire-1-akwon20 directory
-3. Input the following command: g++ Main.cpp Game.cpp GameBasic.cpp GameIntermediate.cpp GameHouse.cpp Deck.cpp Card.cpp -o ./Card
-4. Input ./Card to run the program
+3. Input the following command to compile: make
+4. Input ./Main to run the program
+5. Input make clean all to recompile
 
 # Commit History
 Please navigate to the following link for a full commit history:
