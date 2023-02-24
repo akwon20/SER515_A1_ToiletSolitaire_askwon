@@ -34,3 +34,7 @@
 Card
 Main
 Play
+
+# Other
+*.dSYM
+*.DS_Store
