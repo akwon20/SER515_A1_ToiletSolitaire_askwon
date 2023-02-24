@@ -115,7 +115,6 @@ void GameHouse::play() {
                     std::cout << "Hand discarded!" << std::endl;
 
                     // Automatically deal 4 cards
-                    int min = std::min(4, (int)deck.Cards.size());
                     if (deck.Cards.size() > 0) {
                         int min = std::min(4, (int)deck.Cards.size());
                         for (int i = 0; i < min; i++) {
