@@ -9,7 +9,8 @@
  * View the README.md for compilation instructions
  * 
  * GitHub Link: https://github.com/akwon20/SER515_A1_ToiletSolitaire_askwon.git
- *
+ * Taiga Link: https://tree.taiga.io/project/akwon20-askwon-ser515-spr23-a1-toilet-solitaire-c/timeline
+ * 
  * @author Austin Kwon
  */
 int main(int argc, char **argv) {
