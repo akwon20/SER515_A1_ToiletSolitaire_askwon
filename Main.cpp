@@ -8,8 +8,7 @@
  * 
  * View the README.md for compilation instructions
  * 
- * GitHub Link: 
- * Taiga Link: 
+ * GitHub Link: https://github.com/akwon20/SER515_A1_ToiletSolitaire_askwon.git
  *
  * @author Austin Kwon
  */
